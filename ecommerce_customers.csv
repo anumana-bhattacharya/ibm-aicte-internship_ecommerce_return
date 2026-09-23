@@ -1,0 +1,1501 @@
+customer_id,region,membership_level,customer_sustainability_priority,joined_year
+CUST_0001,Europe,Silver,2,2024
+CUST_0002,Latin America,Standard,5,2023
+CUST_0003,Europe,Standard,5,2024
+CUST_0004,North America,Standard,4,2021
+CUST_0005,Europe,Silver,3,2021
+CUST_0006,North America,,5,2022
+CUST_0007,Asia-Pacific,Standard,4,2023
+CUST_0008,Middle East,Silver,3,2023
+CUST_0009,Middle East,Gold,5,2021
+CUST_0010,Europe,Standard,3,2023
+CUST_0011,Latin America,,1,2024
+CUST_0012,Europe,Silver,1,2023
+CUST_0013,Europe,Gold,1,2021
+CUST_0014,North America,Standard,3,2021
+CUST_0015,Latin America,Standard,3,2024
+CUST_0016,Latin America,Standard,4,2024
+CUST_0017,Middle East,Standard,3,2024
+CUST_0018,Asia-Pacific,Silver,4,2023
+CUST_0019,North America,Silver,4,2024
+CUST_0020,Middle East,Silver,5,2021
+CUST_0021,North America,Standard,2,2021
+CUST_0022,North America,Silver,5,2024
+CUST_0023,Middle East,Standard,5,2023
+CUST_0024,Europe,Silver,1,2022
+CUST_0025,Latin America,Silver,2,2024
+CUST_0026,Asia-Pacific,Standard,3,2023
+CUST_0027,Latin America,Gold,2,2023
+CUST_0028,Middle East,Gold,5,2021
+CUST_0029,Middle East,Gold,5,2023
+CUST_0030,Europe,Silver,5,2022
+CUST_0031,Europe,Standard,5,2022
+CUST_0032,Europe,Standard,1,2023
+CUST_0033,North America,Standard,3,2023
+CUST_0034,Europe,Gold,1,2022
+CUST_0035,Latin America,Standard,5,2021
+CUST_0036,Latin America,Platinum,2,2021
+CUST_0037,Asia-Pacific,Silver,1,2022
+CUST_0038,Asia-Pacific,Silver,4,2021
+CUST_0039,Latin America,Silver,5,2022
+CUST_0040,Middle East,Silver,5,2023
+CUST_0041,North America,Silver,5,2023
+CUST_0042,Middle East,Gold,2,2022
+CUST_0043,Latin America,Standard,1,2022
+CUST_0044,Europe,Platinum,5,2021
+CUST_0045,Middle East,Gold,3,2024
+CUST_0046,Latin America,Standard,2,2024
+CUST_0047,Asia-Pacific,Silver,2,2022
+CUST_0048,Latin America,Silver,5,2024
+CUST_0049,Europe,Standard,1,2023
+CUST_0050,Europe,Gold,1,2023
+CUST_0051,Latin America,Standard,3,2024
+CUST_0052,Europe,Standard,3,2023
+CUST_0053,Middle East,,5,2022
+CUST_0054,Middle East,Silver,5,2023
+CUST_0055,Latin America,Standard,2,2024
+CUST_0056,North America,Standard,3,2024
+CUST_0057,North America,Standard,3,2022
+CUST_0058,Europe,Silver,2,2021
+CUST_0059,Asia-Pacific,Gold,2,2021
+CUST_0060,Europe,Gold,1,2024
+CUST_0061,North America,Standard,4,2022
+CUST_0062,Latin America,Silver,3,2022
+CUST_0063,North America,Silver,2,2024
+CUST_0064,Latin America,Standard,1,2021
+CUST_0065,Latin America,Gold,4,2022
+CUST_0066,Asia-Pacific,Standard,1,2022
+CUST_0067,North America,Standard,3,2022
+CUST_0068,North America,Standard,3,2022
+CUST_0069,Asia-Pacific,Standard,3,2023
+CUST_0070,Latin America,Gold,3,2021
+CUST_0071,Asia-Pacific,Gold,2,2024
+CUST_0072,Latin America,Silver,3,2024
+CUST_0073,Asia-Pacific,Standard,3,2023
+CUST_0074,Middle East,Standard,5,2022
+CUST_0075,North America,Standard,5,2024
+CUST_0076,Latin America,Gold,3,2023
+CUST_0077,Asia-Pacific,Standard,2,2022
+CUST_0078,Latin America,Gold,1,2023
+CUST_0079,Europe,Standard,4,2023
+CUST_0080,Middle East,Silver,5,2023
+CUST_0081,Middle East,Standard,2,2024
+CUST_0082,Europe,Gold,1,2024
+CUST_0083,Latin America,Standard,2,2021
+CUST_0084,Latin America,Silver,4,2024
+CUST_0085,Middle East,Standard,4,2024
+CUST_0086,Middle East,Gold,5,2023
+CUST_0087,Europe,Gold,2,2024
+CUST_0088,Latin America,Platinum,4,2023
+CUST_0089,Latin America,Standard,5,2021
+CUST_0090,Asia-Pacific,Silver,4,2023
+CUST_0091,Latin America,Silver,3,2021
+CUST_0092,North America,Standard,4,2024
+CUST_0093,Latin America,,4,2021
+CUST_0094,Middle East,Silver,5,2022
+CUST_0095,Latin America,Silver,2,2024
+CUST_0096,Europe,Gold,4,2021
+CUST_0097,North America,Standard,4,2022
+CUST_0098,North America,Silver,1,2024
+CUST_0099,North America,Silver,3,2024
+CUST_0100,Asia-Pacific,Standard,1,2022
+CUST_0101,Latin America,Silver,5,2022
+CUST_0102,Middle East,Standard,4,2021
+CUST_0103,North America,Standard,5,2024
+CUST_0104,North America,Gold,4,2024
+CUST_0105,Latin America,Platinum,2,2022
+CUST_0106,North America,Silver,4,2023
+CUST_0107,Europe,Gold,3,2021
+CUST_0108,Asia-Pacific,Silver,4,2022
+CUST_0109,North America,Gold,2,2021
+CUST_0110,North America,Silver,4,2024
+CUST_0111,Middle East,Standard,5,2023
+CUST_0112,Latin America,Gold,3,2022
+CUST_0113,Europe,Silver,3,2022
+CUST_0114,North America,Silver,5,2023
+CUST_0115,Europe,Standard,2,2024
+CUST_0116,Asia-Pacific,Standard,1,2022
+CUST_0117,Asia-Pacific,Standard,1,2023
+CUST_0118,Asia-Pacific,Standard,2,2022
+CUST_0119,Asia-Pacific,Silver,2,2022
+CUST_0120,Middle East,Silver,4,2024
+CUST_0121,Europe,Platinum,4,2024
+CUST_0122,Middle East,Standard,5,2022
+CUST_0123,Asia-Pacific,Silver,4,2024
+CUST_0124,North America,Standard,2,2024
+CUST_0125,Asia-Pacific,Gold,3,2021
+CUST_0126,Latin America,Silver,5,2021
+CUST_0127,Asia-Pacific,Silver,3,2022
+CUST_0128,Asia-Pacific,Standard,2,2024
+CUST_0129,Latin America,Standard,1,2024
+CUST_0130,Asia-Pacific,Standard,4,2022
+CUST_0131,Asia-Pacific,Standard,4,2022
+CUST_0132,Asia-Pacific,Silver,2,2024
+CUST_0133,Europe,Gold,4,2023
+CUST_0134,Latin America,Silver,5,2023
+CUST_0135,Latin America,Standard,5,2023
+CUST_0136,Latin America,Standard,2,2021
+CUST_0137,Asia-Pacific,Silver,4,2021
+CUST_0138,Middle East,Gold,5,2021
+CUST_0139,Middle East,Standard,3,2024
+CUST_0140,Middle East,Standard,3,2022
+CUST_0141,Europe,Silver,2,2021
+CUST_0142,Europe,Silver,2,2023
+CUST_0143,Asia-Pacific,Standard,3,2022
+CUST_0144,Latin America,Standard,4,2021
+CUST_0145,Europe,Standard,1,2022
+CUST_0146,Europe,Silver,5,2022
+CUST_0147,North America,Standard,4,2021
+CUST_0148,Asia-Pacific,Silver,2,2022
+CUST_0149,Middle East,Silver,5,2022
+CUST_0150,North America,Gold,5,2024
+CUST_0151,Asia-Pacific,,3,2024
+CUST_0152,North America,Silver,1,2022
+CUST_0153,Latin America,Standard,3,2022
+CUST_0154,Middle East,Silver,4,2021
+CUST_0155,Asia-Pacific,Silver,2,2021
+CUST_0156,North America,Standard,3,2024
+CUST_0157,Europe,Gold,1,2022
+CUST_0158,North America,Standard,2,2023
+CUST_0159,Latin America,Standard,4,2024
+CUST_0160,Latin America,,2,2024
+CUST_0161,Europe,Standard,3,2021
+CUST_0162,North America,Silver,4,2023
+CUST_0163,Latin America,Standard,1,2023
+CUST_0164,Europe,Standard,1,2024
+CUST_0165,Asia-Pacific,Gold,3,2021
+CUST_0166,Asia-Pacific,Gold,1,2021
+CUST_0167,North America,Standard,2,2021
+CUST_0168,North America,Standard,4,2023
+CUST_0169,North America,Silver,1,2023
+CUST_0170,Middle East,Standard,2,2023
+CUST_0171,North America,Standard,1,2022
+CUST_0172,Europe,Silver,2,2023
+CUST_0173,Europe,Silver,2,2023
+CUST_0174,North America,Silver,4,2023
+CUST_0175,Asia-Pacific,Standard,5,2023
+CUST_0176,North America,Standard,1,2022
+CUST_0177,Asia-Pacific,Standard,4,2021
+CUST_0178,Europe,Standard,2,2021
+CUST_0179,Europe,Standard,2,2022
+CUST_0180,Middle East,Gold,1,2024
+CUST_0181,North America,Standard,2,2023
+CUST_0182,North America,Silver,1,2022
+CUST_0183,Asia-Pacific,Platinum,3,2021
+CUST_0184,Asia-Pacific,Standard,3,2021
+CUST_0185,Latin America,Silver,4,2021
+CUST_0186,North America,Silver,4,2024
+CUST_0187,Asia-Pacific,Silver,5,2024
+CUST_0188,Asia-Pacific,Standard,2,2023
+CUST_0189,Europe,Standard,5,2021
+CUST_0190,Middle East,Silver,1,2023
+CUST_0191,Middle East,Silver,3,2021
+CUST_0192,Latin America,Silver,4,2023
+CUST_0193,Asia-Pacific,Standard,5,2023
+CUST_0194,Europe,Standard,1,2022
+CUST_0195,Europe,Standard,3,2022
+CUST_0196,Middle East,Silver,1,2023
+CUST_0197,Asia-Pacific,Standard,3,2021
+CUST_0198,Middle East,Silver,1,2021
+CUST_0199,North America,Standard,2,2023
+CUST_0200,North America,Platinum,2,2021
+CUST_0201,Middle East,Standard,5,2022
+CUST_0202,Latin America,Gold,2,2024
+CUST_0203,Asia-Pacific,Standard,5,2023
+CUST_0204,Latin America,Platinum,5,2024
+CUST_0205,Europe,Standard,4,2021
+CUST_0206,Latin America,Gold,3,2022
+CUST_0207,Europe,Standard,1,2023
+CUST_0208,North America,Gold,3,2023
+CUST_0209,North America,Gold,2,2024
+CUST_0210,Middle East,Silver,2,2021
+CUST_0211,Asia-Pacific,Standard,2,2024
+CUST_0212,Asia-Pacific,Standard,3,2021
+CUST_0213,Europe,Gold,2,2021
+CUST_0214,North America,Platinum,3,2021
+CUST_0215,North America,Silver,5,2024
+CUST_0216,Latin America,Standard,4,2023
+CUST_0217,Middle East,Silver,1,2023
+CUST_0218,Europe,Standard,5,2021
+CUST_0219,Latin America,Standard,1,2021
+CUST_0220,Europe,Gold,1,2021
+CUST_0221,Middle East,Standard,4,2022
+CUST_0222,Asia-Pacific,Silver,4,2022
+CUST_0223,Europe,Standard,4,2021
+CUST_0224,Asia-Pacific,Platinum,3,2022
+CUST_0225,Europe,Silver,3,2023
+CUST_0226,Middle East,Standard,1,2022
+CUST_0227,North America,Silver,1,2024
+CUST_0228,North America,Standard,4,2022
+CUST_0229,Asia-Pacific,Silver,5,2024
+CUST_0230,Middle East,Platinum,3,2021
+CUST_0231,Asia-Pacific,Gold,4,2021
+CUST_0232,Middle East,Standard,2,2021
+CUST_0233,Europe,Silver,1,2024
+CUST_0234,North America,Silver,2,2024
+CUST_0235,Latin America,Gold,4,2024
+CUST_0236,Europe,Standard,5,2024
+CUST_0237,Middle East,Standard,3,2023
+CUST_0238,North America,Silver,4,2021
+CUST_0239,Latin America,Standard,2,2024
+CUST_0240,Asia-Pacific,,1,2024
+CUST_0241,Latin America,Standard,3,2022
+CUST_0242,North America,Standard,1,2024
+CUST_0243,Middle East,Standard,4,2022
+CUST_0244,Middle East,Gold,5,2023
+CUST_0245,Latin America,Silver,2,2023
+CUST_0246,Europe,Silver,1,2024
+CUST_0247,Middle East,,2,2023
+CUST_0248,Asia-Pacific,Gold,5,2022
+CUST_0249,Latin America,Silver,5,2023
+CUST_0250,North America,Silver,1,2023
+CUST_0251,Latin America,Silver,4,2021
+CUST_0252,Latin America,,4,2023
+CUST_0253,Asia-Pacific,Silver,1,2023
+CUST_0254,Asia-Pacific,Standard,1,2022
+CUST_0255,Asia-Pacific,Standard,5,2023
+CUST_0256,Middle East,Silver,3,2024
+CUST_0257,Europe,Standard,4,2022
+CUST_0258,North America,Standard,3,2021
+CUST_0259,Latin America,Silver,5,2021
+CUST_0260,Latin America,Silver,1,2022
+CUST_0261,Latin America,Silver,5,2023
+CUST_0262,Europe,Standard,3,2022
+CUST_0263,North America,Gold,4,2024
+CUST_0264,Europe,,5,2021
+CUST_0265,Asia-Pacific,Silver,5,2022
+CUST_0266,Middle East,Gold,2,2021
+CUST_0267,Middle East,Standard,1,2024
+CUST_0268,Latin America,Silver,2,2024
+CUST_0269,Latin America,Silver,1,2023
+CUST_0270,Middle East,Standard,5,2024
+CUST_0271,Middle East,Platinum,5,2023
+CUST_0272,Latin America,Silver,1,2021
+CUST_0273,Middle East,Silver,2,2021
+CUST_0274,Europe,Standard,1,2022
+CUST_0275,North America,Standard,3,2023
+CUST_0276,Latin America,Silver,1,2022
+CUST_0277,Middle East,Silver,4,2022
+CUST_0278,Europe,Silver,2,2021
+CUST_0279,Middle East,Standard,3,2023
+CUST_0280,North America,Standard,5,2021
+CUST_0281,Asia-Pacific,Gold,2,2023
+CUST_0282,North America,Gold,2,2021
+CUST_0283,Middle East,Silver,1,2022
+CUST_0284,North America,Silver,5,2022
+CUST_0285,Middle East,Standard,4,2022
+CUST_0286,Latin America,Silver,1,2023
+CUST_0287,Latin America,Silver,3,2022
+CUST_0288,Latin America,Silver,3,2023
+CUST_0289,Latin America,Silver,5,2021
+CUST_0290,Asia-Pacific,Gold,5,2022
+CUST_0291,Middle East,Standard,4,2024
+CUST_0292,Middle East,Standard,1,2021
+CUST_0293,North America,,1,2024
+CUST_0294,Europe,Standard,5,2024
+CUST_0295,Europe,Gold,1,2022
+CUST_0296,Latin America,Gold,3,2021
+CUST_0297,North America,Gold,5,2022
+CUST_0298,Asia-Pacific,Silver,1,2024
+CUST_0299,Latin America,Standard,1,2021
+CUST_0300,Middle East,Standard,2,2021
+CUST_0301,Latin America,Silver,5,2022
+CUST_0302,Middle East,Standard,4,2022
+CUST_0303,Middle East,Standard,3,2022
+CUST_0304,Europe,Silver,2,2022
+CUST_0305,Latin America,Platinum,2,2021
+CUST_0306,Asia-Pacific,Silver,4,2022
+CUST_0307,Middle East,Standard,3,2021
+CUST_0308,Asia-Pacific,Silver,1,2022
+CUST_0309,North America,,2,2024
+CUST_0310,Europe,Standard,2,2021
+CUST_0311,North America,Silver,1,2022
+CUST_0312,Middle East,Standard,5,2022
+CUST_0313,Middle East,Gold,3,2023
+CUST_0314,Middle East,Platinum,2,2024
+CUST_0315,Latin America,Standard,4,2024
+CUST_0316,Europe,Silver,5,2021
+CUST_0317,North America,Silver,4,2021
+CUST_0318,Latin America,Standard,4,2024
+CUST_0319,Europe,Standard,5,2023
+CUST_0320,Middle East,Standard,3,2022
+CUST_0321,Europe,Gold,3,2024
+CUST_0322,North America,Gold,1,2023
+CUST_0323,Middle East,Standard,2,2023
+CUST_0324,North America,Standard,5,2023
+CUST_0325,Asia-Pacific,Platinum,3,2024
+CUST_0326,North America,Silver,2,2022
+CUST_0327,Asia-Pacific,Gold,5,2023
+CUST_0328,Latin America,Silver,3,2024
+CUST_0329,Europe,Gold,1,2023
+CUST_0330,Europe,Silver,2,2022
+CUST_0331,Middle East,Silver,1,2024
+CUST_0332,North America,Gold,3,2022
+CUST_0333,Asia-Pacific,Standard,3,2022
+CUST_0334,Asia-Pacific,Standard,3,2021
+CUST_0335,Latin America,Silver,3,2023
+CUST_0336,Latin America,Standard,3,2024
+CUST_0337,North America,Silver,1,2022
+CUST_0338,Asia-Pacific,Silver,1,2022
+CUST_0339,Middle East,Platinum,3,2023
+CUST_0340,Asia-Pacific,Standard,3,2022
+CUST_0341,Asia-Pacific,Silver,5,2024
+CUST_0342,Middle East,Gold,2,2022
+CUST_0343,North America,Silver,3,2023
+CUST_0344,Latin America,Standard,1,2022
+CUST_0345,Asia-Pacific,Silver,1,2024
+CUST_0346,Asia-Pacific,Standard,5,2024
+CUST_0347,Asia-Pacific,Silver,3,2023
+CUST_0348,North America,Standard,3,2024
+CUST_0349,North America,Silver,5,2024
+CUST_0350,Europe,Standard,5,2023
+CUST_0351,Europe,Standard,1,2022
+CUST_0352,Asia-Pacific,Silver,2,2022
+CUST_0353,North America,Standard,5,2022
+CUST_0354,Latin America,Silver,2,2023
+CUST_0355,Europe,Standard,4,2023
+CUST_0356,Asia-Pacific,Standard,1,2022
+CUST_0357,North America,Standard,5,2023
+CUST_0358,Latin America,Gold,4,2022
+CUST_0359,Middle East,Platinum,4,2021
+CUST_0360,Middle East,Standard,3,2024
+CUST_0361,Latin America,Silver,1,2022
+CUST_0362,Asia-Pacific,Gold,1,2024
+CUST_0363,North America,Standard,5,2021
+CUST_0364,Latin America,Standard,1,2022
+CUST_0365,Middle East,Standard,5,2023
+CUST_0366,Europe,Gold,1,2024
+CUST_0367,Asia-Pacific,Standard,4,2023
+CUST_0368,Asia-Pacific,Standard,1,2022
+CUST_0369,Europe,Silver,4,2023
+CUST_0370,Middle East,Standard,1,2022
+CUST_0371,Latin America,Standard,2,2022
+CUST_0372,Europe,Standard,1,2022
+CUST_0373,Asia-Pacific,Standard,1,2022
+CUST_0374,Latin America,Standard,2,2023
+CUST_0375,Latin America,Standard,3,2021
+CUST_0376,North America,Silver,3,2023
+CUST_0377,North America,Standard,2,2024
+CUST_0378,Middle East,Standard,5,2022
+CUST_0379,Asia-Pacific,Silver,1,2024
+CUST_0380,Middle East,Silver,1,2023
+CUST_0381,Latin America,Standard,1,2023
+CUST_0382,Europe,Gold,2,2023
+CUST_0383,Latin America,Silver,1,2023
+CUST_0384,Europe,Standard,2,2022
+CUST_0385,Asia-Pacific,Standard,4,2024
+CUST_0386,Middle East,Silver,1,2024
+CUST_0387,Latin America,Silver,5,2021
+CUST_0388,Latin America,Silver,5,2024
+CUST_0389,Asia-Pacific,Standard,4,2023
+CUST_0390,Asia-Pacific,Standard,1,2021
+CUST_0391,North America,Standard,4,2024
+CUST_0392,Asia-Pacific,Standard,5,2024
+CUST_0393,Middle East,Silver,2,2023
+CUST_0394,Latin America,Silver,4,2023
+CUST_0395,Europe,Standard,3,2023
+CUST_0396,North America,Gold,3,2022
+CUST_0397,Latin America,Silver,5,2024
+CUST_0398,Middle East,Silver,3,2024
+CUST_0399,Middle East,Standard,5,2024
+CUST_0400,Latin America,Standard,5,2023
+CUST_0401,Middle East,Standard,3,2023
+CUST_0402,Latin America,Standard,3,2021
+CUST_0403,Middle East,Silver,4,2021
+CUST_0404,Middle East,Silver,4,2022
+CUST_0405,Latin America,Silver,5,2024
+CUST_0406,Middle East,Silver,5,2023
+CUST_0407,North America,Standard,2,2024
+CUST_0408,Latin America,,5,2022
+CUST_0409,Asia-Pacific,Silver,5,2022
+CUST_0410,North America,Standard,1,2024
+CUST_0411,Asia-Pacific,Silver,5,2024
+CUST_0412,Middle East,Standard,1,2022
+CUST_0413,Europe,Silver,1,2021
+CUST_0414,Latin America,Standard,2,2021
+CUST_0415,North America,Standard,1,2023
+CUST_0416,Europe,Standard,3,2023
+CUST_0417,North America,Silver,2,2023
+CUST_0418,Latin America,Standard,1,2024
+CUST_0419,North America,Standard,3,2022
+CUST_0420,Middle East,Standard,3,2023
+CUST_0421,Middle East,Gold,4,2022
+CUST_0422,North America,Standard,4,2023
+CUST_0423,Middle East,Standard,2,2024
+CUST_0424,Asia-Pacific,Standard,2,2024
+CUST_0425,North America,Gold,2,2023
+CUST_0426,Latin America,Standard,1,2024
+CUST_0427,Europe,Silver,5,2024
+CUST_0428,Europe,Standard,2,2023
+CUST_0429,Latin America,Silver,3,2024
+CUST_0430,Latin America,Platinum,1,2021
+CUST_0431,Asia-Pacific,Gold,2,2021
+CUST_0432,Middle East,Silver,2,2024
+CUST_0433,North America,Silver,5,2021
+CUST_0434,Europe,Standard,5,2021
+CUST_0435,Asia-Pacific,,4,2022
+CUST_0436,Europe,Standard,3,2022
+CUST_0437,Asia-Pacific,Gold,2,2021
+CUST_0438,North America,Standard,2,2021
+CUST_0439,Middle East,Standard,2,2023
+CUST_0440,Europe,Gold,5,2024
+CUST_0441,Latin America,Silver,1,2022
+CUST_0442,Latin America,Silver,4,2022
+CUST_0443,Asia-Pacific,Standard,4,2021
+CUST_0444,Latin America,Standard,4,2024
+CUST_0445,Latin America,Standard,5,2021
+CUST_0446,Latin America,Standard,5,2024
+CUST_0447,Asia-Pacific,Standard,5,2021
+CUST_0448,Latin America,Gold,1,2021
+CUST_0449,Europe,Silver,2,2021
+CUST_0450,North America,Standard,3,2021
+CUST_0451,Middle East,,4,2021
+CUST_0452,Middle East,Standard,1,2023
+CUST_0453,Asia-Pacific,Silver,1,2021
+CUST_0454,Asia-Pacific,Standard,5,2021
+CUST_0455,Asia-Pacific,Silver,2,2023
+CUST_0456,Middle East,Silver,4,2022
+CUST_0457,Asia-Pacific,Standard,1,2023
+CUST_0458,Middle East,Silver,5,2024
+CUST_0459,Middle East,Standard,5,2024
+CUST_0460,North America,Silver,4,2023
+CUST_0461,Middle East,Standard,4,2023
+CUST_0462,Europe,Silver,5,2024
+CUST_0463,Latin America,Standard,5,2021
+CUST_0464,Latin America,Silver,2,2023
+CUST_0465,Middle East,Silver,2,2022
+CUST_0466,Europe,Standard,5,2021
+CUST_0467,Asia-Pacific,Standard,1,2022
+CUST_0468,Asia-Pacific,Standard,3,2021
+CUST_0469,Latin America,Standard,2,2021
+CUST_0470,Middle East,Standard,2,2024
+CUST_0471,North America,Platinum,3,2024
+CUST_0472,North America,Standard,1,2023
+CUST_0473,Europe,Gold,4,2023
+CUST_0474,Middle East,Silver,5,2021
+CUST_0475,Europe,Standard,5,2022
+CUST_0476,Latin America,Standard,5,2023
+CUST_0477,North America,Gold,2,2021
+CUST_0478,North America,Silver,2,2022
+CUST_0479,Europe,Standard,2,2023
+CUST_0480,Latin America,Standard,3,2023
+CUST_0481,Middle East,Standard,4,2023
+CUST_0482,North America,Gold,1,2021
+CUST_0483,Middle East,Silver,2,2021
+CUST_0484,North America,Standard,3,2022
+CUST_0485,North America,Standard,3,2021
+CUST_0486,Latin America,Standard,4,2023
+CUST_0487,Middle East,,3,2024
+CUST_0488,Middle East,Standard,2,2024
+CUST_0489,Asia-Pacific,Standard,5,2024
+CUST_0490,Europe,Standard,2,2021
+CUST_0491,North America,Silver,1,2024
+CUST_0492,Asia-Pacific,Silver,5,2022
+CUST_0493,Middle East,Standard,1,2023
+CUST_0494,Europe,Standard,1,2021
+CUST_0495,Latin America,,2,2021
+CUST_0496,Middle East,Standard,1,2021
+CUST_0497,Latin America,Standard,4,2021
+CUST_0498,North America,Standard,3,2023
+CUST_0499,Latin America,Silver,3,2024
+CUST_0500,North America,Standard,2,2021
+CUST_0501,Europe,Standard,5,2021
+CUST_0502,Europe,Silver,5,2023
+CUST_0503,Asia-Pacific,Standard,2,2024
+CUST_0504,Europe,Silver,2,2022
+CUST_0505,Middle East,Standard,3,2021
+CUST_0506,Europe,Silver,3,2022
+CUST_0507,Latin America,Silver,3,2023
+CUST_0508,North America,Standard,3,2024
+CUST_0509,Europe,Silver,3,2024
+CUST_0510,Europe,Gold,3,2021
+CUST_0511,North America,Gold,5,2021
+CUST_0512,Middle East,Standard,3,2023
+CUST_0513,Latin America,Silver,5,2022
+CUST_0514,Latin America,Gold,2,2022
+CUST_0515,Europe,Standard,3,2021
+CUST_0516,Europe,Platinum,4,2021
+CUST_0517,Europe,Gold,2,2022
+CUST_0518,Asia-Pacific,Standard,5,2022
+CUST_0519,Europe,Silver,3,2024
+CUST_0520,Latin America,Silver,4,2023
+CUST_0521,Latin America,Standard,2,2022
+CUST_0522,Europe,Platinum,2,2021
+CUST_0523,North America,Standard,2,2022
+CUST_0524,Middle East,Standard,4,2021
+CUST_0525,Latin America,Platinum,3,2023
+CUST_0526,Middle East,Standard,2,2022
+CUST_0527,Europe,Standard,1,2024
+CUST_0528,Europe,Gold,5,2022
+CUST_0529,Europe,Platinum,1,2022
+CUST_0530,North America,Standard,4,2024
+CUST_0531,Europe,Standard,3,2023
+CUST_0532,Asia-Pacific,Standard,1,2024
+CUST_0533,Latin America,Silver,3,2023
+CUST_0534,Europe,Silver,4,2024
+CUST_0535,Europe,Silver,5,2022
+CUST_0536,Middle East,Platinum,4,2022
+CUST_0537,Middle East,Standard,3,2023
+CUST_0538,Latin America,Gold,2,2024
+CUST_0539,Europe,Standard,3,2024
+CUST_0540,Asia-Pacific,Standard,1,2021
+CUST_0541,Latin America,Standard,2,2024
+CUST_0542,Europe,Standard,3,2022
+CUST_0543,Latin America,Standard,2,2024
+CUST_0544,Latin America,Silver,2,2021
+CUST_0545,North America,Standard,2,2023
+CUST_0546,Asia-Pacific,Standard,1,2021
+CUST_0547,Asia-Pacific,Silver,5,2024
+CUST_0548,Asia-Pacific,Silver,4,2022
+CUST_0549,Asia-Pacific,Standard,1,2022
+CUST_0550,North America,Standard,2,2022
+CUST_0551,Latin America,Silver,5,2024
+CUST_0552,Europe,Standard,5,2021
+CUST_0553,North America,Silver,5,2024
+CUST_0554,Asia-Pacific,Standard,1,2024
+CUST_0555,North America,Silver,1,2023
+CUST_0556,Europe,Silver,2,2021
+CUST_0557,Asia-Pacific,Silver,4,2023
+CUST_0558,Europe,Standard,4,2024
+CUST_0559,Asia-Pacific,Silver,4,2024
+CUST_0560,Europe,Silver,2,2021
+CUST_0561,Europe,Silver,5,2024
+CUST_0562,Latin America,Standard,1,2022
+CUST_0563,North America,Silver,2,2024
+CUST_0564,Europe,Standard,5,2023
+CUST_0565,Latin America,,2,2024
+CUST_0566,Middle East,Silver,5,2022
+CUST_0567,Europe,,4,2022
+CUST_0568,Asia-Pacific,Gold,5,2022
+CUST_0569,Europe,Standard,1,2021
+CUST_0570,Europe,Standard,1,2021
+CUST_0571,North America,Standard,3,2021
+CUST_0572,Asia-Pacific,Standard,3,2024
+CUST_0573,Europe,Standard,2,2022
+CUST_0574,Middle East,Standard,5,2021
+CUST_0575,Europe,Gold,3,2023
+CUST_0576,Asia-Pacific,Standard,4,2022
+CUST_0577,Asia-Pacific,Standard,3,2023
+CUST_0578,Europe,Gold,4,2023
+CUST_0579,Asia-Pacific,Silver,4,2024
+CUST_0580,Europe,Gold,4,2022
+CUST_0581,Middle East,Silver,5,2024
+CUST_0582,Asia-Pacific,Silver,4,2023
+CUST_0583,Middle East,Standard,5,2021
+CUST_0584,North America,Standard,5,2022
+CUST_0585,Europe,Standard,1,2022
+CUST_0586,Middle East,Silver,2,2021
+CUST_0587,Asia-Pacific,Standard,1,2023
+CUST_0588,Latin America,Standard,4,2022
+CUST_0589,Europe,Silver,3,2021
+CUST_0590,Latin America,Silver,1,2022
+CUST_0591,Asia-Pacific,,3,2022
+CUST_0592,Europe,Gold,2,2022
+CUST_0593,Latin America,,5,2024
+CUST_0594,Middle East,Standard,1,2024
+CUST_0595,Latin America,Standard,3,2022
+CUST_0596,Latin America,Silver,2,2021
+CUST_0597,Middle East,Standard,5,2024
+CUST_0598,Asia-Pacific,Standard,2,2022
+CUST_0599,Latin America,Silver,4,2022
+CUST_0600,Middle East,Silver,3,2021
+CUST_0601,Asia-Pacific,Standard,3,2024
+CUST_0602,Asia-Pacific,Standard,5,2021
+CUST_0603,Middle East,Silver,5,2022
+CUST_0604,Europe,Gold,3,2024
+CUST_0605,Europe,Platinum,4,2021
+CUST_0606,Middle East,Standard,1,2022
+CUST_0607,Asia-Pacific,Standard,4,2024
+CUST_0608,Middle East,Standard,4,2022
+CUST_0609,Middle East,Silver,4,2022
+CUST_0610,Europe,Standard,5,2024
+CUST_0611,Asia-Pacific,Silver,3,2021
+CUST_0612,Asia-Pacific,Gold,2,2022
+CUST_0613,North America,Silver,2,2021
+CUST_0614,Middle East,Standard,2,2023
+CUST_0615,Middle East,Silver,1,2022
+CUST_0616,Latin America,Standard,1,2021
+CUST_0617,Middle East,Standard,1,2024
+CUST_0618,North America,Gold,5,2022
+CUST_0619,Europe,Gold,1,2023
+CUST_0620,Middle East,Standard,3,2022
+CUST_0621,Latin America,Silver,3,2023
+CUST_0622,Latin America,Standard,5,2021
+CUST_0623,Europe,Silver,2,2021
+CUST_0624,Latin America,Standard,4,2024
+CUST_0625,Latin America,Standard,1,2024
+CUST_0626,Europe,Silver,5,2023
+CUST_0627,North America,Standard,1,2022
+CUST_0628,Europe,Standard,1,2022
+CUST_0629,Middle East,Standard,5,2021
+CUST_0630,Middle East,Gold,4,2021
+CUST_0631,Latin America,Standard,5,2024
+CUST_0632,Middle East,Standard,1,2021
+CUST_0633,Asia-Pacific,Silver,4,2024
+CUST_0634,Asia-Pacific,Standard,3,2024
+CUST_0635,Middle East,Gold,3,2022
+CUST_0636,Asia-Pacific,Standard,5,2022
+CUST_0637,Europe,Gold,5,2023
+CUST_0638,Latin America,Silver,3,2023
+CUST_0639,Asia-Pacific,Silver,1,2023
+CUST_0640,Asia-Pacific,Silver,2,2024
+CUST_0641,Latin America,Silver,5,2021
+CUST_0642,Latin America,Standard,1,2021
+CUST_0643,North America,Standard,4,2021
+CUST_0644,Latin America,Silver,5,2022
+CUST_0645,North America,Standard,5,2024
+CUST_0646,Latin America,Silver,2,2021
+CUST_0647,Europe,Standard,4,2022
+CUST_0648,Latin America,Silver,1,2023
+CUST_0649,Europe,Gold,3,2021
+CUST_0650,North America,Standard,5,2021
+CUST_0651,Middle East,Standard,3,2024
+CUST_0652,Middle East,Standard,5,2021
+CUST_0653,Europe,Silver,1,2021
+CUST_0654,Asia-Pacific,Gold,1,2022
+CUST_0655,Asia-Pacific,Standard,2,2023
+CUST_0656,Europe,Standard,4,2022
+CUST_0657,Asia-Pacific,Silver,3,2021
+CUST_0658,Middle East,,2,2022
+CUST_0659,Middle East,Gold,3,2021
+CUST_0660,Middle East,Standard,1,2022
+CUST_0661,North America,Silver,3,2023
+CUST_0662,Middle East,Silver,1,2024
+CUST_0663,North America,Standard,2,2024
+CUST_0664,North America,Standard,1,2023
+CUST_0665,North America,Silver,3,2024
+CUST_0666,Middle East,Standard,1,2024
+CUST_0667,Latin America,Gold,1,2021
+CUST_0668,Middle East,Standard,1,2024
+CUST_0669,Middle East,Standard,5,2024
+CUST_0670,Asia-Pacific,Standard,5,2023
+CUST_0671,Latin America,Silver,4,2023
+CUST_0672,Asia-Pacific,Standard,5,2022
+CUST_0673,Middle East,Silver,2,2021
+CUST_0674,Europe,Standard,3,2023
+CUST_0675,Asia-Pacific,Standard,3,2024
+CUST_0676,Asia-Pacific,Silver,1,2021
+CUST_0677,Europe,Gold,5,2022
+CUST_0678,North America,Silver,1,2023
+CUST_0679,Europe,Silver,3,2021
+CUST_0680,Latin America,Silver,4,2023
+CUST_0681,Asia-Pacific,Standard,4,2024
+CUST_0682,Latin America,Standard,3,2023
+CUST_0683,North America,Gold,2,2024
+CUST_0684,North America,Silver,5,2021
+CUST_0685,Europe,Standard,3,2021
+CUST_0686,Europe,Silver,3,2023
+CUST_0687,Asia-Pacific,Standard,1,2021
+CUST_0688,Europe,Standard,2,2022
+CUST_0689,Latin America,Silver,2,2021
+CUST_0690,Europe,Standard,3,2024
+CUST_0691,North America,Silver,5,2024
+CUST_0692,Asia-Pacific,Silver,2,2023
+CUST_0693,Middle East,Silver,5,2024
+CUST_0694,Europe,Standard,5,2023
+CUST_0695,Europe,Silver,3,2021
+CUST_0696,Latin America,Gold,4,2022
+CUST_0697,North America,,1,2023
+CUST_0698,Latin America,Standard,3,2021
+CUST_0699,Asia-Pacific,Platinum,4,2021
+CUST_0700,Latin America,Standard,3,2024
+CUST_0701,Europe,Silver,1,2024
+CUST_0702,Middle East,Standard,3,2024
+CUST_0703,Middle East,Gold,1,2023
+CUST_0704,Latin America,Standard,2,2024
+CUST_0705,Middle East,Standard,3,2022
+CUST_0706,Latin America,Silver,4,2021
+CUST_0707,Latin America,Standard,5,2021
+CUST_0708,Europe,Platinum,1,2023
+CUST_0709,Asia-Pacific,Standard,2,2023
+CUST_0710,Middle East,Silver,1,2022
+CUST_0711,Europe,Standard,5,2024
+CUST_0712,Latin America,Standard,1,2024
+CUST_0713,Asia-Pacific,Silver,2,2021
+CUST_0714,Middle East,Standard,2,2021
+CUST_0715,Latin America,Standard,2,2021
+CUST_0716,Middle East,Silver,1,2021
+CUST_0717,North America,Gold,3,2022
+CUST_0718,Asia-Pacific,Standard,1,2022
+CUST_0719,North America,Standard,2,2023
+CUST_0720,Europe,Standard,1,2021
+CUST_0721,Asia-Pacific,Platinum,2,2023
+CUST_0722,Middle East,Standard,5,2021
+CUST_0723,Europe,,5,2022
+CUST_0724,North America,Standard,5,2021
+CUST_0725,North America,Standard,2,2021
+CUST_0726,Europe,Gold,3,2024
+CUST_0727,Europe,Standard,4,2024
+CUST_0728,Asia-Pacific,Standard,5,2022
+CUST_0729,Latin America,Gold,2,2024
+CUST_0730,Europe,Standard,2,2024
+CUST_0731,Asia-Pacific,Silver,5,2021
+CUST_0732,North America,Standard,1,2024
+CUST_0733,North America,,5,2023
+CUST_0734,North America,,2,2023
+CUST_0735,Asia-Pacific,Gold,2,2023
+CUST_0736,Middle East,Standard,5,2022
+CUST_0737,Asia-Pacific,Silver,2,2022
+CUST_0738,Latin America,Gold,3,2021
+CUST_0739,Europe,Standard,5,2022
+CUST_0740,Middle East,Gold,5,2024
+CUST_0741,Middle East,Gold,2,2021
+CUST_0742,Europe,Silver,1,2022
+CUST_0743,Middle East,,4,2024
+CUST_0744,Latin America,Standard,1,2023
+CUST_0745,Middle East,Standard,3,2023
+CUST_0746,Europe,Standard,5,2024
+CUST_0747,North America,Standard,2,2021
+CUST_0748,Europe,Silver,1,2023
+CUST_0749,North America,Standard,1,2021
+CUST_0750,North America,,4,2024
+CUST_0751,North America,Standard,4,2024
+CUST_0752,Latin America,Gold,4,2022
+CUST_0753,Middle East,Standard,5,2023
+CUST_0754,Latin America,Standard,4,2021
+CUST_0755,Europe,Silver,1,2021
+CUST_0756,Asia-Pacific,Gold,5,2024
+CUST_0757,Europe,Standard,3,2024
+CUST_0758,Latin America,Silver,1,2022
+CUST_0759,Latin America,Platinum,5,2024
+CUST_0760,Europe,Silver,3,2022
+CUST_0761,Latin America,Standard,4,2021
+CUST_0762,Middle East,Standard,1,2023
+CUST_0763,Asia-Pacific,Standard,3,2022
+CUST_0764,North America,Gold,1,2023
+CUST_0765,Asia-Pacific,Standard,5,2023
+CUST_0766,North America,Gold,1,2021
+CUST_0767,Middle East,Standard,1,2023
+CUST_0768,Latin America,Silver,2,2024
+CUST_0769,North America,Standard,2,2021
+CUST_0770,Asia-Pacific,Standard,5,2023
+CUST_0771,Asia-Pacific,Silver,2,2023
+CUST_0772,North America,Standard,5,2023
+CUST_0773,North America,Silver,5,2021
+CUST_0774,Asia-Pacific,Standard,2,2024
+CUST_0775,Latin America,Gold,2,2024
+CUST_0776,Latin America,Silver,3,2021
+CUST_0777,Latin America,Standard,5,2023
+CUST_0778,Asia-Pacific,Silver,3,2023
+CUST_0779,Latin America,,1,2021
+CUST_0780,Latin America,Silver,2,2022
+CUST_0781,Middle East,Standard,5,2021
+CUST_0782,North America,Standard,4,2021
+CUST_0783,Middle East,Standard,1,2024
+CUST_0784,North America,Gold,4,2022
+CUST_0785,Latin America,Standard,1,2021
+CUST_0786,North America,Gold,1,2024
+CUST_0787,North America,Silver,2,2022
+CUST_0788,Asia-Pacific,Standard,5,2023
+CUST_0789,Asia-Pacific,Standard,2,2022
+CUST_0790,Asia-Pacific,Silver,1,2023
+CUST_0791,Middle East,Platinum,1,2024
+CUST_0792,Asia-Pacific,Standard,2,2022
+CUST_0793,Asia-Pacific,Gold,1,2024
+CUST_0794,Middle East,Standard,3,2022
+CUST_0795,Europe,Standard,4,2023
+CUST_0796,Europe,Gold,3,2022
+CUST_0797,Latin America,Standard,5,2023
+CUST_0798,North America,Standard,5,2024
+CUST_0799,Asia-Pacific,Silver,5,2023
+CUST_0800,Middle East,Gold,2,2024
+CUST_0801,North America,Standard,3,2023
+CUST_0802,Middle East,Standard,3,2024
+CUST_0803,North America,Silver,3,2021
+CUST_0804,Asia-Pacific,Silver,1,2021
+CUST_0805,Latin America,Silver,3,2022
+CUST_0806,Latin America,Silver,3,2023
+CUST_0807,Middle East,Silver,1,2021
+CUST_0808,Middle East,Gold,1,2022
+CUST_0809,Asia-Pacific,Silver,1,2023
+CUST_0810,Middle East,Standard,4,2023
+CUST_0811,North America,Standard,4,2023
+CUST_0812,Latin America,Standard,3,2023
+CUST_0813,Latin America,Gold,1,2021
+CUST_0814,Latin America,,5,2023
+CUST_0815,Asia-Pacific,Standard,2,2021
+CUST_0816,Asia-Pacific,Standard,4,2021
+CUST_0817,North America,Silver,1,2023
+CUST_0818,Asia-Pacific,Silver,5,2023
+CUST_0819,Middle East,Standard,3,2022
+CUST_0820,Latin America,Gold,4,2022
+CUST_0821,Latin America,Silver,1,2022
+CUST_0822,Latin America,Gold,3,2023
+CUST_0823,North America,Standard,3,2021
+CUST_0824,Asia-Pacific,Silver,2,2023
+CUST_0825,North America,Silver,3,2021
+CUST_0826,Europe,Standard,1,2022
+CUST_0827,North America,Standard,2,2024
+CUST_0828,Latin America,Standard,5,2024
+CUST_0829,Europe,Gold,1,2022
+CUST_0830,Middle East,Platinum,5,2024
+CUST_0831,North America,Silver,2,2021
+CUST_0832,Latin America,Gold,2,2022
+CUST_0833,Latin America,Silver,4,2023
+CUST_0834,Asia-Pacific,Standard,5,2021
+CUST_0835,Latin America,Gold,2,2023
+CUST_0836,Europe,Standard,2,2024
+CUST_0837,North America,Standard,5,2023
+CUST_0838,Middle East,Gold,5,2023
+CUST_0839,Middle East,Gold,3,2023
+CUST_0840,Asia-Pacific,Standard,1,2023
+CUST_0841,Latin America,Silver,5,2022
+CUST_0842,Latin America,Standard,2,2022
+CUST_0843,North America,Silver,5,2021
+CUST_0844,Europe,Gold,4,2022
+CUST_0845,Latin America,Silver,3,2024
+CUST_0846,North America,Silver,1,2023
+CUST_0847,North America,Gold,2,2021
+CUST_0848,Latin America,Standard,3,2021
+CUST_0849,North America,Gold,2,2021
+CUST_0850,Middle East,Silver,4,2021
+CUST_0851,North America,Standard,2,2021
+CUST_0852,Middle East,Silver,5,2021
+CUST_0853,Europe,,4,2021
+CUST_0854,Middle East,Standard,3,2023
+CUST_0855,Latin America,Gold,5,2021
+CUST_0856,Europe,Gold,2,2021
+CUST_0857,Latin America,Gold,1,2022
+CUST_0858,Middle East,Standard,2,2023
+CUST_0859,Middle East,Standard,1,2023
+CUST_0860,North America,Gold,2,2024
+CUST_0861,Middle East,Standard,5,2022
+CUST_0862,Europe,Silver,3,2024
+CUST_0863,Asia-Pacific,Platinum,4,2023
+CUST_0864,Asia-Pacific,Standard,1,2024
+CUST_0865,Middle East,Silver,2,2024
+CUST_0866,Asia-Pacific,Gold,3,2021
+CUST_0867,Latin America,Gold,3,2022
+CUST_0868,Latin America,Silver,3,2022
+CUST_0869,Latin America,Gold,4,2022
+CUST_0870,Asia-Pacific,Standard,4,2022
+CUST_0871,North America,Standard,4,2021
+CUST_0872,Asia-Pacific,Silver,5,2021
+CUST_0873,North America,Standard,5,2022
+CUST_0874,Latin America,Standard,1,2023
+CUST_0875,Middle East,Standard,3,2023
+CUST_0876,Middle East,Gold,5,2021
+CUST_0877,North America,Standard,5,2024
+CUST_0878,North America,Silver,4,2022
+CUST_0879,Middle East,Standard,3,2024
+CUST_0880,Middle East,Standard,4,2022
+CUST_0881,Middle East,Gold,1,2021
+CUST_0882,Latin America,Platinum,5,2024
+CUST_0883,North America,Silver,1,2021
+CUST_0884,Latin America,Gold,3,2021
+CUST_0885,Latin America,Standard,1,2021
+CUST_0886,Latin America,Standard,5,2022
+CUST_0887,North America,Platinum,4,2023
+CUST_0888,Asia-Pacific,Standard,1,2021
+CUST_0889,Europe,Silver,3,2022
+CUST_0890,Latin America,Standard,3,2021
+CUST_0891,Latin America,Silver,4,2022
+CUST_0892,Asia-Pacific,Platinum,4,2021
+CUST_0893,North America,Standard,5,2024
+CUST_0894,Asia-Pacific,Silver,5,2024
+CUST_0895,North America,Standard,2,2022
+CUST_0896,Latin America,Silver,3,2021
+CUST_0897,Europe,Standard,2,2022
+CUST_0898,North America,Silver,1,2022
+CUST_0899,Latin America,Gold,5,2024
+CUST_0900,North America,Standard,5,2024
+CUST_0901,Latin America,Platinum,1,2021
+CUST_0902,Europe,Standard,2,2024
+CUST_0903,Asia-Pacific,Gold,1,2024
+CUST_0904,North America,Standard,4,2022
+CUST_0905,Latin America,Standard,5,2021
+CUST_0906,Latin America,Silver,3,2022
+CUST_0907,Middle East,Standard,2,2024
+CUST_0908,Latin America,Silver,4,2021
+CUST_0909,Europe,Silver,4,2021
+CUST_0910,Latin America,Silver,4,2022
+CUST_0911,Middle East,Silver,5,2022
+CUST_0912,Latin America,Standard,5,2024
+CUST_0913,Europe,Standard,5,2024
+CUST_0914,Middle East,Standard,4,2024
+CUST_0915,Asia-Pacific,Standard,3,2022
+CUST_0916,Latin America,Standard,5,2022
+CUST_0917,Asia-Pacific,Platinum,3,2021
+CUST_0918,Europe,Silver,4,2023
+CUST_0919,North America,Silver,3,2022
+CUST_0920,Europe,Standard,4,2024
+CUST_0921,Asia-Pacific,Silver,1,2023
+CUST_0922,Middle East,Silver,3,2023
+CUST_0923,Middle East,Standard,2,2022
+CUST_0924,Europe,Gold,4,2023
+CUST_0925,Europe,Silver,1,2024
+CUST_0926,Middle East,Standard,5,2021
+CUST_0927,Middle East,Standard,5,2021
+CUST_0928,Europe,Standard,2,2024
+CUST_0929,Asia-Pacific,Gold,4,2023
+CUST_0930,North America,Standard,1,2024
+CUST_0931,Europe,Platinum,1,2024
+CUST_0932,Europe,Standard,3,2024
+CUST_0933,North America,Standard,2,2023
+CUST_0934,Latin America,Standard,3,2023
+CUST_0935,North America,Standard,3,2021
+CUST_0936,Middle East,Standard,5,2021
+CUST_0937,Europe,Silver,3,2022
+CUST_0938,Asia-Pacific,Standard,2,2021
+CUST_0939,Latin America,Standard,4,2021
+CUST_0940,Europe,Silver,2,2022
+CUST_0941,Latin America,Standard,4,2023
+CUST_0942,North America,Platinum,2,2024
+CUST_0943,North America,Standard,2,2024
+CUST_0944,Latin America,Silver,5,2024
+CUST_0945,North America,Standard,3,2023
+CUST_0946,Latin America,Standard,5,2022
+CUST_0947,Asia-Pacific,,3,2022
+CUST_0948,Europe,Standard,5,2021
+CUST_0949,North America,,4,2022
+CUST_0950,Asia-Pacific,Platinum,2,2021
+CUST_0951,Asia-Pacific,Standard,2,2023
+CUST_0952,North America,Standard,4,2023
+CUST_0953,Latin America,Silver,5,2022
+CUST_0954,Latin America,Gold,1,2022
+CUST_0955,North America,Silver,5,2023
+CUST_0956,North America,Standard,4,2024
+CUST_0957,North America,Standard,2,2024
+CUST_0958,Latin America,Silver,5,2022
+CUST_0959,North America,Standard,4,2021
+CUST_0960,Asia-Pacific,Gold,2,2024
+CUST_0961,Middle East,Gold,1,2024
+CUST_0962,Asia-Pacific,Standard,3,2024
+CUST_0963,Latin America,Platinum,5,2022
+CUST_0964,Latin America,Standard,4,2021
+CUST_0965,Middle East,Silver,4,2021
+CUST_0966,Latin America,Standard,1,2022
+CUST_0967,Europe,Standard,3,2022
+CUST_0968,Middle East,Standard,5,2023
+CUST_0969,Asia-Pacific,Silver,4,2022
+CUST_0970,Asia-Pacific,Standard,1,2024
+CUST_0971,Middle East,Silver,4,2021
+CUST_0972,Europe,Standard,1,2021
+CUST_0973,North America,Silver,1,2024
+CUST_0974,Middle East,Silver,2,2023
+CUST_0975,Middle East,Silver,5,2022
+CUST_0976,Middle East,Standard,4,2024
+CUST_0977,Europe,Standard,5,2021
+CUST_0978,Asia-Pacific,Standard,3,2021
+CUST_0979,Asia-Pacific,Standard,5,2022
+CUST_0980,North America,Gold,5,2022
+CUST_0981,Middle East,Gold,4,2023
+CUST_0982,Middle East,Silver,2,2022
+CUST_0983,Europe,Silver,5,2023
+CUST_0984,North America,Standard,5,2023
+CUST_0985,Europe,Standard,5,2022
+CUST_0986,Latin America,Standard,3,2023
+CUST_0987,Middle East,Standard,4,2023
+CUST_0988,Europe,Silver,5,2024
+CUST_0989,North America,Standard,5,2024
+CUST_0990,Middle East,,1,2024
+CUST_0991,Asia-Pacific,Standard,1,2021
+CUST_0992,Europe,Platinum,2,2024
+CUST_0993,Europe,Standard,4,2021
+CUST_0994,North America,Standard,1,2024
+CUST_0995,Middle East,Silver,5,2023
+CUST_0996,Europe,,2,2023
+CUST_0997,Latin America,Silver,1,2023
+CUST_0998,Asia-Pacific,Gold,2,2021
+CUST_0999,Latin America,Standard,4,2023
+CUST_1000,Europe,Gold,1,2024
+CUST_1001,Europe,Platinum,4,2024
+CUST_1002,Asia-Pacific,Standard,5,2021
+CUST_1003,Middle East,Standard,2,2022
+CUST_1004,Latin America,Silver,5,2021
+CUST_1005,Middle East,Standard,4,2021
+CUST_1006,Middle East,Silver,4,2024
+CUST_1007,Asia-Pacific,Silver,1,2022
+CUST_1008,Europe,Gold,5,2024
+CUST_1009,Asia-Pacific,Standard,1,2024
+CUST_1010,Europe,Standard,3,2024
+CUST_1011,North America,Standard,3,2021
+CUST_1012,North America,Standard,4,2024
+CUST_1013,Latin America,Standard,2,2022
+CUST_1014,Europe,Platinum,1,2022
+CUST_1015,North America,Silver,4,2021
+CUST_1016,Middle East,Gold,4,2024
+CUST_1017,Europe,Silver,4,2023
+CUST_1018,Asia-Pacific,,2,2023
+CUST_1019,Europe,Silver,3,2024
+CUST_1020,Middle East,Silver,4,2021
+CUST_1021,Asia-Pacific,Silver,1,2023
+CUST_1022,Europe,Silver,2,2023
+CUST_1023,Latin America,Standard,5,2024
+CUST_1024,Asia-Pacific,Gold,3,2021
+CUST_1025,Latin America,Standard,5,2022
+CUST_1026,Asia-Pacific,Standard,2,2023
+CUST_1027,Latin America,Standard,4,2022
+CUST_1028,Europe,Silver,4,2021
+CUST_1029,Asia-Pacific,Standard,5,2021
+CUST_1030,Europe,Standard,1,2021
+CUST_1031,North America,Silver,3,2022
+CUST_1032,Latin America,Gold,1,2021
+CUST_1033,North America,Standard,3,2021
+CUST_1034,Europe,Silver,4,2023
+CUST_1035,North America,Standard,1,2024
+CUST_1036,Middle East,Silver,3,2022
+CUST_1037,Latin America,Standard,4,2024
+CUST_1038,Latin America,Standard,5,2021
+CUST_1039,Asia-Pacific,Standard,5,2022
+CUST_1040,Asia-Pacific,Standard,1,2022
+CUST_1041,Europe,Gold,4,2022
+CUST_1042,Middle East,Silver,1,2024
+CUST_1043,Middle East,Platinum,3,2024
+CUST_1044,Middle East,Standard,4,2023
+CUST_1045,Middle East,Standard,5,2021
+CUST_1046,Middle East,Standard,4,2022
+CUST_1047,Europe,Standard,2,2023
+CUST_1048,Middle East,Silver,4,2021
+CUST_1049,Latin America,Platinum,3,2021
+CUST_1050,Europe,Silver,1,2024
+CUST_1051,Asia-Pacific,Gold,4,2021
+CUST_1052,Asia-Pacific,Platinum,3,2021
+CUST_1053,Middle East,Silver,2,2021
+CUST_1054,Europe,Platinum,5,2023
+CUST_1055,North America,Silver,4,2023
+CUST_1056,Europe,Standard,2,2023
+CUST_1057,Asia-Pacific,Silver,1,2023
+CUST_1058,Asia-Pacific,Standard,5,2024
+CUST_1059,Asia-Pacific,Silver,3,2023
+CUST_1060,Asia-Pacific,Platinum,3,2022
+CUST_1061,Latin America,Gold,2,2021
+CUST_1062,Latin America,Standard,2,2024
+CUST_1063,Europe,Standard,2,2022
+CUST_1064,Latin America,Gold,5,2021
+CUST_1065,Europe,Silver,2,2022
+CUST_1066,Asia-Pacific,Gold,4,2024
+CUST_1067,Europe,Standard,1,2023
+CUST_1068,Middle East,Standard,4,2024
+CUST_1069,Asia-Pacific,Standard,2,2021
+CUST_1070,Europe,Silver,2,2022
+CUST_1071,North America,,4,2021
+CUST_1072,Europe,Silver,5,2021
+CUST_1073,North America,Silver,1,2022
+CUST_1074,North America,Standard,1,2023
+CUST_1075,Latin America,Standard,3,2022
+CUST_1076,Asia-Pacific,Silver,2,2023
+CUST_1077,Middle East,Silver,5,2023
+CUST_1078,Latin America,Silver,4,2022
+CUST_1079,Latin America,Platinum,3,2023
+CUST_1080,Middle East,Standard,3,2024
+CUST_1081,Latin America,Standard,3,2022
+CUST_1082,Asia-Pacific,Standard,2,2023
+CUST_1083,Asia-Pacific,Standard,1,2024
+CUST_1084,Europe,Standard,4,2022
+CUST_1085,Asia-Pacific,Gold,5,2023
+CUST_1086,North America,Standard,4,2022
+CUST_1087,North America,Standard,3,2023
+CUST_1088,North America,Standard,5,2023
+CUST_1089,Europe,Standard,1,2022
+CUST_1090,Asia-Pacific,Standard,3,2024
+CUST_1091,Latin America,Gold,5,2023
+CUST_1092,Asia-Pacific,Silver,1,2023
+CUST_1093,Middle East,Platinum,2,2024
+CUST_1094,Latin America,Gold,1,2021
+CUST_1095,Middle East,Standard,4,2023
+CUST_1096,Asia-Pacific,Standard,5,2023
+CUST_1097,Latin America,Standard,4,2023
+CUST_1098,North America,Standard,5,2021
+CUST_1099,Asia-Pacific,Silver,4,2024
+CUST_1100,North America,Standard,3,2023
+CUST_1101,Latin America,Standard,1,2024
+CUST_1102,Middle East,,3,2023
+CUST_1103,Asia-Pacific,Silver,3,2024
+CUST_1104,Europe,Silver,2,2022
+CUST_1105,Europe,Standard,1,2023
+CUST_1106,Asia-Pacific,Standard,4,2023
+CUST_1107,North America,Gold,3,2024
+CUST_1108,Europe,Standard,4,2021
+CUST_1109,Europe,Platinum,2,2024
+CUST_1110,North America,Platinum,2,2024
+CUST_1111,Europe,Standard,2,2024
+CUST_1112,Latin America,,5,2023
+CUST_1113,Latin America,Standard,3,2022
+CUST_1114,North America,Silver,4,2023
+CUST_1115,Latin America,Silver,4,2024
+CUST_1116,Middle East,Silver,3,2024
+CUST_1117,Latin America,Standard,5,2024
+CUST_1118,Europe,Standard,4,2023
+CUST_1119,Latin America,Silver,1,2024
+CUST_1120,Asia-Pacific,Standard,5,2021
+CUST_1121,Latin America,Standard,5,2021
+CUST_1122,Asia-Pacific,Gold,1,2021
+CUST_1123,North America,Standard,3,2022
+CUST_1124,Europe,Silver,1,2024
+CUST_1125,North America,Gold,5,2021
+CUST_1126,Europe,Standard,5,2022
+CUST_1127,Middle East,Standard,1,2022
+CUST_1128,Latin America,Silver,2,2022
+CUST_1129,North America,Standard,3,2022
+CUST_1130,North America,Silver,2,2024
+CUST_1131,Middle East,Standard,2,2021
+CUST_1132,Europe,Silver,1,2024
+CUST_1133,North America,Standard,5,2021
+CUST_1134,Europe,Gold,2,2021
+CUST_1135,Europe,Silver,4,2023
+CUST_1136,Asia-Pacific,Standard,3,2023
+CUST_1137,North America,Gold,3,2022
+CUST_1138,Europe,Standard,3,2024
+CUST_1139,Latin America,Platinum,2,2024
+CUST_1140,Asia-Pacific,Standard,4,2021
+CUST_1141,Europe,Standard,5,2021
+CUST_1142,Latin America,Silver,3,2023
+CUST_1143,Latin America,Silver,1,2022
+CUST_1144,Middle East,Standard,5,2021
+CUST_1145,Middle East,Standard,5,2023
+CUST_1146,Latin America,Platinum,4,2022
+CUST_1147,Asia-Pacific,,1,2024
+CUST_1148,Europe,Silver,1,2021
+CUST_1149,Middle East,Standard,4,2023
+CUST_1150,Middle East,Silver,1,2024
+CUST_1151,Asia-Pacific,Silver,1,2022
+CUST_1152,Middle East,Silver,4,2022
+CUST_1153,Latin America,Standard,3,2021
+CUST_1154,Middle East,Standard,4,2024
+CUST_1155,Middle East,Standard,3,2023
+CUST_1156,Middle East,Standard,4,2022
+CUST_1157,Asia-Pacific,Standard,4,2022
+CUST_1158,Asia-Pacific,Standard,3,2022
+CUST_1159,Middle East,Standard,2,2024
+CUST_1160,Asia-Pacific,Gold,3,2022
+CUST_1161,Latin America,Silver,1,2021
+CUST_1162,North America,Standard,3,2023
+CUST_1163,Latin America,Gold,4,2022
+CUST_1164,Middle East,Silver,5,2023
+CUST_1165,Middle East,Gold,5,2023
+CUST_1166,North America,Standard,1,2022
+CUST_1167,Latin America,Standard,4,2021
+CUST_1168,Middle East,Standard,3,2024
+CUST_1169,Latin America,,2,2024
+CUST_1170,Asia-Pacific,Silver,2,2021
+CUST_1171,Middle East,Silver,5,2021
+CUST_1172,North America,Gold,4,2024
+CUST_1173,Asia-Pacific,Silver,1,2023
+CUST_1174,North America,Standard,5,2022
+CUST_1175,Europe,Silver,1,2023
+CUST_1176,Middle East,Silver,4,2024
+CUST_1177,North America,Standard,5,2021
+CUST_1178,North America,Gold,3,2024
+CUST_1179,Middle East,Standard,2,2024
+CUST_1180,Europe,Standard,1,2024
+CUST_1181,Middle East,Silver,1,2022
+CUST_1182,Europe,Silver,2,2022
+CUST_1183,Middle East,Standard,2,2023
+CUST_1184,Middle East,Standard,4,2024
+CUST_1185,Middle East,Silver,3,2022
+CUST_1186,Middle East,Silver,1,2022
+CUST_1187,Asia-Pacific,Standard,3,2024
+CUST_1188,North America,Silver,1,2021
+CUST_1189,Latin America,Silver,2,2021
+CUST_1190,Asia-Pacific,Standard,4,2023
+CUST_1191,Latin America,Standard,2,2022
+CUST_1192,Latin America,Silver,1,2022
+CUST_1193,Asia-Pacific,Silver,5,2021
+CUST_1194,North America,Gold,1,2021
+CUST_1195,Latin America,Silver,4,2022
+CUST_1196,Latin America,Silver,3,2024
+CUST_1197,North America,Standard,5,2022
+CUST_1198,Middle East,Silver,4,2023
+CUST_1199,North America,Standard,4,2023
+CUST_1200,Middle East,Standard,4,2022
+CUST_1201,North America,Gold,2,2021
+CUST_1202,Middle East,Standard,5,2021
+CUST_1203,Middle East,Standard,1,2021
+CUST_1204,Middle East,Standard,2,2023
+CUST_1205,Middle East,Gold,1,2023
+CUST_1206,Latin America,Silver,3,2024
+CUST_1207,Middle East,Silver,1,2021
+CUST_1208,North America,Standard,5,2021
+CUST_1209,North America,Standard,4,2023
+CUST_1210,North America,Standard,4,2021
+CUST_1211,North America,Standard,1,2024
+CUST_1212,Europe,Silver,3,2023
+CUST_1213,Europe,,1,2021
+CUST_1214,Latin America,Silver,5,2021
+CUST_1215,Latin America,Standard,2,2024
+CUST_1216,Latin America,Gold,4,2021
+CUST_1217,North America,Standard,3,2024
+CUST_1218,Asia-Pacific,Standard,5,2022
+CUST_1219,North America,Silver,3,2024
+CUST_1220,Asia-Pacific,Silver,2,2022
+CUST_1221,Asia-Pacific,Silver,2,2023
+CUST_1222,Latin America,Silver,1,2024
+CUST_1223,Asia-Pacific,Standard,4,2022
+CUST_1224,North America,Silver,3,2022
+CUST_1225,Asia-Pacific,,4,2021
+CUST_1226,Asia-Pacific,Standard,2,2024
+CUST_1227,Asia-Pacific,Silver,4,2021
+CUST_1228,Asia-Pacific,Silver,1,2024
+CUST_1229,Latin America,Standard,2,2021
+CUST_1230,Europe,Standard,3,2024
+CUST_1231,Latin America,Platinum,1,2024
+CUST_1232,Europe,Standard,3,2021
+CUST_1233,Middle East,Standard,4,2023
+CUST_1234,Asia-Pacific,Standard,4,2023
+CUST_1235,Europe,Standard,4,2024
+CUST_1236,Latin America,Silver,2,2022
+CUST_1237,Europe,Gold,3,2024
+CUST_1238,Middle East,Standard,2,2022
+CUST_1239,North America,Gold,1,2023
+CUST_1240,Latin America,Standard,1,2023
+CUST_1241,Latin America,Standard,3,2022
+CUST_1242,North America,Standard,1,2021
+CUST_1243,Middle East,Silver,4,2022
+CUST_1244,Asia-Pacific,Standard,5,2024
+CUST_1245,North America,Standard,3,2023
+CUST_1246,Middle East,Standard,4,2021
+CUST_1247,Europe,Platinum,4,2022
+CUST_1248,Asia-Pacific,Standard,1,2021
+CUST_1249,Middle East,Standard,1,2022
+CUST_1250,Latin America,Standard,5,2023
+CUST_1251,Latin America,Standard,1,2024
+CUST_1252,Asia-Pacific,Platinum,4,2023
+CUST_1253,Europe,Silver,5,2022
+CUST_1254,Middle East,Standard,1,2023
+CUST_1255,Middle East,Silver,1,2023
+CUST_1256,Asia-Pacific,Standard,5,2022
+CUST_1257,Europe,Platinum,5,2022
+CUST_1258,Latin America,Standard,5,2023
+CUST_1259,North America,Silver,4,2023
+CUST_1260,Middle East,Standard,4,2024
+CUST_1261,North America,Standard,1,2023
+CUST_1262,North America,Platinum,1,2022
+CUST_1263,North America,Standard,2,2024
+CUST_1264,Middle East,Gold,2,2024
+CUST_1265,Europe,Standard,1,2023
+CUST_1266,Latin America,Standard,3,2023
+CUST_1267,North America,Silver,5,2023
+CUST_1268,Latin America,,3,2021
+CUST_1269,North America,Platinum,4,2024
+CUST_1270,Asia-Pacific,Gold,2,2022
+CUST_1271,Middle East,Standard,1,2023
+CUST_1272,Asia-Pacific,Silver,5,2024
+CUST_1273,Middle East,Standard,3,2021
+CUST_1274,Europe,Standard,1,2021
+CUST_1275,Asia-Pacific,Standard,5,2021
+CUST_1276,Latin America,Gold,3,2021
+CUST_1277,North America,Silver,4,2023
+CUST_1278,Latin America,Silver,1,2024
+CUST_1279,Latin America,Gold,3,2022
+CUST_1280,Middle East,Gold,1,2021
+CUST_1281,Middle East,Standard,4,2022
+CUST_1282,Latin America,Silver,5,2024
+CUST_1283,North America,Standard,5,2022
+CUST_1284,Middle East,Silver,1,2021
+CUST_1285,North America,Gold,2,2022
+CUST_1286,Latin America,Gold,3,2023
+CUST_1287,Asia-Pacific,Gold,3,2022
+CUST_1288,Asia-Pacific,Gold,4,2023
+CUST_1289,Middle East,Standard,2,2024
+CUST_1290,Latin America,Standard,3,2023
+CUST_1291,Middle East,Silver,4,2022
+CUST_1292,Asia-Pacific,Platinum,5,2023
+CUST_1293,Middle East,Silver,4,2022
+CUST_1294,Asia-Pacific,Silver,3,2024
+CUST_1295,Middle East,Silver,3,2024
+CUST_1296,Europe,Silver,5,2024
+CUST_1297,Asia-Pacific,Silver,2,2024
+CUST_1298,Europe,Standard,5,2023
+CUST_1299,North America,Gold,5,2021
+CUST_1300,Latin America,Standard,3,2024
+CUST_1301,Middle East,Standard,3,2024
+CUST_1302,Europe,Silver,3,2023
+CUST_1303,Europe,Standard,1,2021
+CUST_1304,Latin America,Standard,1,2022
+CUST_1305,Europe,Silver,3,2024
+CUST_1306,North America,Standard,5,2023
+CUST_1307,Middle East,Gold,5,2024
+CUST_1308,Latin America,Gold,4,2022
+CUST_1309,Middle East,Platinum,1,2022
+CUST_1310,Latin America,Standard,3,2022
+CUST_1311,North America,Standard,2,2022
+CUST_1312,North America,Platinum,1,2023
+CUST_1313,Latin America,Standard,4,2024
+CUST_1314,Middle East,Silver,4,2024
+CUST_1315,North America,Gold,3,2022
+CUST_1316,Middle East,Standard,2,2024
+CUST_1317,Asia-Pacific,Standard,3,2023
+CUST_1318,Latin America,Silver,5,2022
+CUST_1319,Middle East,Gold,5,2023
+CUST_1320,North America,Standard,1,2024
+CUST_1321,Middle East,Silver,1,2022
+CUST_1322,Middle East,Gold,4,2023
+CUST_1323,Europe,Standard,5,2022
+CUST_1324,Latin America,Gold,2,2021
+CUST_1325,Middle East,Silver,3,2024
+CUST_1326,Europe,Standard,5,2023
+CUST_1327,Europe,Standard,4,2022
+CUST_1328,Middle East,Standard,2,2023
+CUST_1329,Latin America,Standard,4,2021
+CUST_1330,Middle East,Standard,4,2023
+CUST_1331,Europe,Standard,1,2022
+CUST_1332,Europe,Silver,2,2024
+CUST_1333,North America,,3,2021
+CUST_1334,North America,Silver,3,2022
+CUST_1335,Latin America,Silver,5,2024
+CUST_1336,Asia-Pacific,Silver,3,2024
+CUST_1337,Europe,Standard,1,2024
+CUST_1338,Middle East,Gold,3,2022
+CUST_1339,Europe,Silver,2,2022
+CUST_1340,Middle East,Standard,5,2024
+CUST_1341,Europe,Gold,2,2023
+CUST_1342,Middle East,Standard,5,2022
+CUST_1343,Europe,Standard,5,2022
+CUST_1344,Europe,Silver,2,2023
+CUST_1345,Europe,Platinum,2,2022
+CUST_1346,Latin America,Gold,3,2022
+CUST_1347,Asia-Pacific,Standard,4,2021
+CUST_1348,Asia-Pacific,Standard,4,2023
+CUST_1349,Latin America,Silver,3,2024
+CUST_1350,Asia-Pacific,Standard,3,2023
+CUST_1351,Latin America,Standard,2,2021
+CUST_1352,North America,Gold,4,2022
+CUST_1353,Asia-Pacific,Silver,1,2021
+CUST_1354,Middle East,Gold,4,2024
+CUST_1355,Middle East,Standard,5,2022
+CUST_1356,Europe,Gold,4,2022
+CUST_1357,Europe,Silver,4,2022
+CUST_1358,Asia-Pacific,Standard,2,2023
+CUST_1359,North America,Standard,2,2024
+CUST_1360,Europe,Silver,2,2024
+CUST_1361,North America,Silver,1,2021
+CUST_1362,Asia-Pacific,Standard,5,2024
+CUST_1363,Europe,Standard,1,2024
+CUST_1364,North America,Standard,3,2023
+CUST_1365,Latin America,Standard,1,2024
+CUST_1366,Asia-Pacific,Silver,2,2024
+CUST_1367,Europe,Silver,5,2024
+CUST_1368,Europe,,4,2024
+CUST_1369,Middle East,Silver,3,2022
+CUST_1370,Latin America,Silver,1,2024
+CUST_1371,Europe,Standard,1,2024
+CUST_1372,Middle East,Standard,3,2022
+CUST_1373,Middle East,Silver,1,2022
+CUST_1374,Europe,Standard,3,2021
+CUST_1375,Europe,Standard,4,2021
+CUST_1376,Europe,Silver,4,2022
+CUST_1377,Latin America,Standard,1,2024
+CUST_1378,Asia-Pacific,Silver,2,2023
+CUST_1379,Middle East,Silver,5,2021
+CUST_1380,Europe,Gold,3,2023
+CUST_1381,Asia-Pacific,Standard,5,2021
+CUST_1382,Middle East,Gold,1,2024
+CUST_1383,Middle East,Silver,1,2024
+CUST_1384,Europe,Silver,4,2022
+CUST_1385,Asia-Pacific,Platinum,3,2023
+CUST_1386,Europe,Standard,5,2024
+CUST_1387,Asia-Pacific,Silver,3,2021
+CUST_1388,North America,Standard,1,2021
+CUST_1389,North America,Standard,1,2022
+CUST_1390,Middle East,Silver,1,2023
+CUST_1391,Asia-Pacific,Standard,5,2024
+CUST_1392,Latin America,,1,2023
+CUST_1393,Middle East,Standard,3,2022
+CUST_1394,Middle East,Standard,1,2022
+CUST_1395,Middle East,Gold,3,2023
+CUST_1396,Middle East,Standard,5,2023
+CUST_1397,Europe,Standard,2,2021
+CUST_1398,Middle East,Standard,5,2021
+CUST_1399,Europe,Standard,2,2024
+CUST_1400,Latin America,Standard,1,2022
+CUST_1401,Latin America,Gold,4,2021
+CUST_1402,North America,Silver,2,2021
+CUST_1403,Middle East,Standard,3,2021
+CUST_1404,Middle East,Platinum,2,2023
+CUST_1405,Asia-Pacific,Silver,4,2024
+CUST_1406,Latin America,Gold,5,2021
+CUST_1407,Latin America,Standard,1,2021
+CUST_1408,Asia-Pacific,,5,2023
+CUST_1409,Middle East,Gold,3,2023
+CUST_1410,Asia-Pacific,Standard,2,2023
+CUST_1411,Asia-Pacific,Standard,1,2023
+CUST_1412,Europe,Silver,5,2022
+CUST_1413,Middle East,Gold,5,2022
+CUST_1414,Middle East,Standard,1,2023
+CUST_1415,Europe,Standard,5,2021
+CUST_1416,North America,Silver,4,2023
+CUST_1417,Asia-Pacific,Standard,5,2021
+CUST_1418,North America,Platinum,1,2023
+CUST_1419,Europe,Silver,4,2021
+CUST_1420,Europe,Standard,1,2023
+CUST_1421,Asia-Pacific,Standard,3,2023
+CUST_1422,Asia-Pacific,Silver,3,2023
+CUST_1423,Latin America,Silver,4,2024
+CUST_1424,North America,Standard,3,2023
+CUST_1425,Europe,Standard,5,2023
+CUST_1426,Middle East,Silver,4,2023
+CUST_1427,Latin America,Silver,3,2021
+CUST_1428,Europe,Gold,5,2023
+CUST_1429,Latin America,Silver,1,2023
+CUST_1430,Asia-Pacific,Silver,4,2021
+CUST_1431,Europe,Silver,5,2022
+CUST_1432,Latin America,Standard,1,2024
+CUST_1433,Middle East,Standard,4,2021
+CUST_1434,Middle East,Silver,3,2023
+CUST_1435,Asia-Pacific,Gold,2,2022
+CUST_1436,Middle East,Silver,2,2022
+CUST_1437,Latin America,Platinum,2,2022
+CUST_1438,Latin America,Standard,3,2021
+CUST_1439,Asia-Pacific,Platinum,4,2023
+CUST_1440,Asia-Pacific,Standard,4,2022
+CUST_1441,Middle East,Gold,3,2021
+CUST_1442,Asia-Pacific,Standard,5,2022
+CUST_1443,Latin America,Standard,2,2024
+CUST_1444,Middle East,Standard,3,2022
+CUST_1445,North America,Standard,4,2024
+CUST_1446,Middle East,Gold,4,2021
+CUST_1447,Middle East,Standard,2,2022
+CUST_1448,Asia-Pacific,Gold,4,2024
+CUST_1449,Latin America,Gold,4,2023
+CUST_1450,Middle East,Silver,3,2024
+CUST_1451,Latin America,Standard,4,2023
+CUST_1452,North America,Standard,4,2021
+CUST_1453,Europe,Silver,1,2023
+CUST_1454,Middle East,Gold,3,2021
+CUST_1455,Middle East,Silver,1,2024
+CUST_1456,Latin America,Silver,2,2024
+CUST_1457,North America,Silver,5,2021
+CUST_1458,Asia-Pacific,Silver,1,2023
+CUST_1459,Asia-Pacific,Standard,4,2022
+CUST_1460,Europe,Silver,1,2024
+CUST_1461,Asia-Pacific,,4,2024
+CUST_1462,Europe,Silver,1,2021
+CUST_1463,Europe,Silver,3,2023
+CUST_1464,Latin America,Silver,5,2021
+CUST_1465,North America,Silver,1,2023
+CUST_1466,Europe,Standard,3,2022
+CUST_1467,North America,Standard,1,2022
+CUST_1468,Middle East,Silver,5,2023
+CUST_1469,Asia-Pacific,Standard,3,2021
+CUST_1470,Europe,Standard,1,2023
+CUST_1471,Asia-Pacific,Standard,2,2021
+CUST_1472,Middle East,Standard,2,2021
+CUST_1473,Europe,Silver,1,2021
+CUST_1474,Asia-Pacific,Silver,1,2021
+CUST_1475,Europe,Standard,3,2023
+CUST_1476,Asia-Pacific,Silver,1,2021
+CUST_1477,Europe,,4,2022
+CUST_1478,Middle East,Gold,3,2023
+CUST_1479,Asia-Pacific,Standard,5,2022
+CUST_1480,Asia-Pacific,Silver,5,2024
+CUST_1481,Middle East,Gold,2,2024
+CUST_1482,North America,Gold,2,2024
+CUST_1483,Middle East,Platinum,3,2021
+CUST_1484,Europe,Gold,3,2022
+CUST_1485,Asia-Pacific,Silver,3,2023
+CUST_1486,Middle East,Silver,3,2022
+CUST_1487,Latin America,Standard,5,2022
+CUST_1488,Latin America,Silver,2,2024
+CUST_1489,Asia-Pacific,Standard,4,2024
+CUST_1490,North America,Gold,3,2022
+CUST_1491,Latin America,Silver,1,2024
+CUST_1492,North America,Standard,5,2023
+CUST_1493,North America,Standard,5,2023
+CUST_1494,North America,Standard,4,2023
+CUST_1495,Asia-Pacific,Standard,1,2024
+CUST_1496,Asia-Pacific,Silver,3,2023
+CUST_1497,Latin America,Silver,4,2021
+CUST_1498,Latin America,Silver,5,2021
+CUST_1499,Europe,Standard,4,2021
+CUST_1500,Europe,Standard,3,2024
